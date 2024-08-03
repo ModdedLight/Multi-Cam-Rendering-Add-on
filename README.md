@@ -5,6 +5,8 @@ While creating a skybox for a Source mod, I found the process of changing the ac
 
 You can select the image format in the output properties of your scene.
 
-![image](https://github.com/user-attachments/assets/5ffc4b2e-44fc-4f69-b28e-d2d8fde1ec18)
-![image](https://github.com/user-attachments/assets/f549ea85-2c0c-4481-9460-f3b7eaf302af)
-![image](https://github.com/user-attachments/assets/bdd59819-c1f7-4267-8301-1b8e5324e642)
+![image](https://github.com/user-attachments/assets/852b650e-7380-436e-89b6-cf4af89a6ef9)
+
+![image](https://github.com/user-attachments/assets/ff3a0455-ebf7-402d-b99d-e957e0f69a36)
+
+![image](https://github.com/user-attachments/assets/50b49547-a740-4388-8c80-f2d56fb815da)
